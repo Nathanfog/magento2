@@ -145,8 +145,47 @@ So you will have five configurations. *Follow the next steps to understand.*
       ![](.github/images/tax-vat.png)
 
 
+#### 5 - Belluno - Pix
 
-#### 5 - General Configure
+![](https://github.com/GMagento/belluno/assets/120131818/6244cea5-649b-4fb0-91a4-f5048d2ee8ba)
+
+- **Enabled:** this option gives the possibility to activate and deactivate the module.
+
+  - `Yes` - activated;
+  - `No` - disabled;
+
+- **Days to expiration:** number of days for the QR Code/link to expire.
+
+- **Title:** in this field you can change the name that will appear at checkout.
+  
+- **Capture tax document:** this field allows you to configure whether the client is to fill in your document or not.
+
+  - `Yes` - customer will have to fill in their document at checkout.
+
+  - `No` - customer will not have to fill in their document at checkout.
+
+  - **Observation:** ***IF YOU MARK NO***, you must set the field "***Show Tax/VAT number***" as mandatory.
+
+    - **Show Tax/VAT number:** `Stores` -> `Configuration` -> `Customers` -> `Customer` `Configuration` -> `show Tax/VAT Number`. **REQUIRED**.
+
+      ![](.github/images/tax-vat.png)
+ 
+#### 6 - Belluno - Payment Link
+
+![](https://github.com/Nathanfog/magento2/assets/174280093/d66c05da-0afe-4359-a78f-b248c24eacc7)
+
+- **Enabled:** this option gives the possibility to activate and deactivate the module.
+
+  - `Yes` - activated;
+  - `No` - disabled;
+
+- **Title:** in this field you can change the name that will appear at checkout.
+  
+- **Email Template:** You can choose a template that will be used to send the email when the link is generated.
+
+- **Sort Order:** this option lets you select an order that the method will appear at checkout. The smaller will appear first.
+
+#### 7 - General Configure
 
 - **Show Telephone:** `Stores` -> `Configuration` -> `Customers` -> `Customer` `Configuration` -> `Show Telephone`. **REQUIRED**.
 
@@ -181,21 +220,3 @@ After clicking, a new page will open to download or print the bank slip.
 After clicking.
 
 ![](.github/images/payment_datail.png)
-
-
-#### 6 - Belluno - Payment Link
-
-![image](https://github.com/Nathanfog/magento2/assets/174280093/d66c05da-0afe-4359-a78f-b248c24eacc7)
-
-- **Enabled:** this option gives the possibility to activate and deactivate the module.
-
-  - `Yes` - activated;
-  - `No` - disabled;
-
-- **Title:** in this field you can change the name that will appear at checkout.
-  
-- **Email Template:** You can choose a template that will be used to send the email when the link is generated.
-
-- **Sort Order:** this option lets you select an order that the method will appear at checkout. The smaller will appear first.
-
-
