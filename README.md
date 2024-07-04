@@ -185,5 +185,6 @@ After clicking.
 
 #### 7 - Belluno - Payment Link
 
-![image](https://github.com/Nathanfog/magento2/assets/174280093/0cb44d82-4348-42e3-89cd-8d451a7c7ab1)
+![image](https://github.com/Nathanfog/magento2/assets/174280093/d66c05da-0afe-4359-a78f-b248c24eacc7)
+
 
