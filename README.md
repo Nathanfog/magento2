@@ -183,8 +183,19 @@ After clicking.
 ![](.github/images/payment_datail.png)
 
 
-#### 7 - Belluno - Payment Link
+#### 6 - Belluno - Payment Link
 
 ![image](https://github.com/Nathanfog/magento2/assets/174280093/d66c05da-0afe-4359-a78f-b248c24eacc7)
+
+- **Enabled:** this option gives the possibility to activate and deactivate the module.
+
+  - `Yes` - activated;
+  - `No` - disabled;
+
+- **Title:** in this field you can change the name that will appear at checkout.
+  
+- **Email Template:** You can choose a template that will be used to send the email when the link is generated.
+
+- **Sort Order:** this option lets you select an order that the method will appear at checkout. The smaller will appear first.
 
 
