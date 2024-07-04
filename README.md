@@ -181,3 +181,9 @@ After clicking, a new page will open to download or print the bank slip.
 After clicking.
 
 ![](.github/images/payment_datail.png)
+
+
+#### 7 - Belluno - Payment Link
+
+![image](https://github.com/Nathanfog/magento2/assets/174280093/0cb44d82-4348-42e3-89cd-8d451a7c7ab1)
+
